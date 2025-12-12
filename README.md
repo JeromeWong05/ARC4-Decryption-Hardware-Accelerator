@@ -71,13 +71,43 @@ The final design achieves **orders-of-magnitude acceleration** over a naïve sin
 
 ## FPGA Toolchain
 
-- **HDL:** SystemVerilog  
-- **Synthesis & Implementation:** Intel Quartus Prime  
-- **Simulation:** ModelSim / Questa  
-- **Target Platform:** Intel Cyclone-series FPGA  
+- **HDL:** SystemVerilog
+- **Synthesis & Implementation:** Intel Quartus Prime
+- **Simulation:** ModelSim / Questa
+- **Target Platform:** Intel Cyclone-series FPGA
 - **Clocking:** PLL-generated internal clock
 
 ---
 
 ## Repository Structure
 
+.
+├── src/            # RTL modules (ARC4, crack, multicore logic)
+├── tb/             # RTL and post-synthesis testbenches
+├── constraints/    # Timing and clock constraints
+└── README.md
+
+> Generated FPGA build artifacts are intentionally excluded from version control.
+
+---
+
+## Technical Highlights
+
+- Demonstrates **fixed-function hardware acceleration**
+- Shows practical **FPGA clock-domain optimization using PLLs**
+- Illustrates **scalable parallelism** without software scheduling
+- Emphasizes **clean control/data separation** and memory-centric design
+
+---
+
+## Disclaimer
+
+ARC4 is considered cryptographically insecure and is used here **strictly for educational and architectural exploration purposes**, particularly to study hardware acceleration, parallel cryptanalysis, and FPGA design techniques.
+
+---
+
+## Author
+
+**Jerome Wong**
+Electrical Engineering  
+FPGA / Digital Systems / Hardware Acceleration
