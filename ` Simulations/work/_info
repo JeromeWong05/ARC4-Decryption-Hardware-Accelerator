@@ -1,0 +1,376 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3/task5/`Simulations
+varc4
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1765404091
+!i10b 1
+!s100 9D_hmN;9HG44[49AV:bcB0
+I1lk7ln=A1ZAW;WAD2zzED2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 arc4_sv_unit
+S1
+Z3 dD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/` Simulations
+w1765398787
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/arc4.sv
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/arc4.sv
+L0 11
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1765404091.000000
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/arc4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/arc4.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vcompetition
+R0
+R1
+!i10b 1
+!s100 5jigR^fM6KJ[BYCR@Nfli1
+IDD4j@I;EIR6j86c<7aGhc0
+R2
+Z8 !s105 competition_sv_unit
+S1
+R3
+Z9 w1765402353
+Z10 8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/competition.sv
+Z11 FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/competition.sv
+L0 31
+R4
+r1
+!s85 0
+31
+R5
+Z12 !s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/competition.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/competition.sv|
+!i113 1
+R6
+R7
+vcrack
+R0
+R1
+!i10b 1
+!s100 ;K1bU3Ie`5N80Lh?GJ0e53
+IJRLnY0G2bT8<[7ac2[OAc3
+R2
+!s105 crack_sv_unit
+S1
+R3
+w1765398792
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/crack.sv
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/crack.sv
+L0 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/crack.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/crack.sv|
+!i113 1
+R6
+R7
+vcrack_pll
+R1
+!i10b 1
+!s100 YlXEnnoQ=4=z?5EbbO24a2
+Ia78YbDkiC7:ZoQnC53mmj2
+R2
+R3
+w1764492903
+8D:/Wongh/Quartus/CPEN_311_Lab3_Bonus/Competition/crack_pll.v
+FD:/Wongh/Quartus/CPEN_311_Lab3_Bonus/Competition/crack_pll.v
+L0 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Wongh/Quartus/CPEN_311_Lab3_Bonus/Competition/crack_pll.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Wongh/Quartus/CPEN_311_Lab3_Bonus/Competition/crack_pll.v|
+!i113 1
+Z14 o-work work
+R7
+vcrack_pll_0002
+R1
+!i10b 1
+!s100 7=F`:_bSl6RanV65C87TQ2
+I0^HNzA2elHa=S[X;FM^Q`0
+R2
+R3
+w1764492884
+8D:/Wongh/Quartus/CPEN_311_Lab3_Bonus/Competition/crack_pll/crack_pll_0002.v
+FD:/Wongh/Quartus/CPEN_311_Lab3_Bonus/Competition/crack_pll/crack_pll_0002.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Wongh/Quartus/CPEN_311_Lab3_Bonus/Competition/crack_pll/crack_pll_0002.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Wongh/Quartus/CPEN_311_Lab3_Bonus/Competition/crack_pll/crack_pll_0002.v|
+!i113 1
+R14
+R7
+vct_mem
+Z15 !s110 1765404090
+!i10b 1
+!s100 @F_KEMAaa8c^MD^?=E0GD0
+IOTb];I045`8z1f8U8=04M2
+R2
+R3
+Z16 w1763677793
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/ct_mem.v
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/ct_mem.v
+Z17 L0 39
+R4
+r1
+!s85 0
+31
+Z18 !s108 1765404090.000000
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/ct_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/ct_mem.v|
+!i113 1
+R14
+R7
+vinit
+R0
+R15
+!i10b 1
+!s100 ::7]7o7bUmeZRRz[ImhiD1
+IR6o@JWH1O0<OgFhFFf0Q]1
+R2
+!s105 init_sv_unit
+S1
+R3
+w1765398775
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/init.sv
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/init.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/init.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/init.sv|
+!i113 1
+R6
+R7
+vksa
+R0
+R15
+!i10b 1
+!s100 UP5geN0`f0?KGFEVf=coZ3
+IgV:Dz1NAj4RC9@To0KY0B0
+R2
+!s105 ksa_sv_unit
+S1
+R3
+w1765398782
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/ksa.sv
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/ksa.sv
+L0 12
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/ksa.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/ksa.sv|
+!i113 1
+R6
+R7
+vlct_mem
+R0
+!s110 1764412721
+!i10b 1
+!s100 @A`J50HVAlXoV6@cJAU?j0
+IoLo65VNl1I]F?X7Ya2I[T3
+R2
+Z19 !s105 multicore_sv_unit
+S1
+R3
+w1764412717
+Z20 8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/multicore.sv
+Z21 FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/multicore.sv
+L0 176
+R4
+r1
+!s85 0
+31
+!s108 1764412721.000000
+Z22 !s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/multicore.sv|
+Z23 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/multicore.sv|
+!i113 1
+R6
+R7
+vmbox
+R15
+!i10b 1
+!s100 :bcka4SM]<N2>7BQl5FdE2
+IjdnJ43HPc?mC[5T^WnXNz1
+R2
+R3
+w1764373901
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/mbox.v
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/mbox.v
+R17
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/mbox.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/mbox.v|
+!i113 1
+R14
+R7
+vmulticore
+R0
+R15
+!i10b 1
+!s100 :?dQ[<X;Zbg8<32Qi<Wi<3
+I?Q:^`VDSlJ<KN33^5:DW;1
+R2
+R19
+S1
+R3
+w1765398794
+R20
+R21
+L0 7
+R4
+r1
+!s85 0
+31
+R18
+R22
+R23
+!i113 1
+R6
+R7
+vprga
+R0
+R15
+!i10b 1
+!s100 MO=hTh]QcT22RaI6_eQ_=1
+IjZE_>C0cP<5Q1XOIn61MC0
+R2
+!s105 prga_sv_unit
+S1
+R3
+w1765398785
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/prga.sv
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/prga.sv
+L0 15
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/prga.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/prga.sv|
+!i113 1
+R6
+R7
+vpt_mem
+R15
+!i10b 1
+!s100 ]ZVg`8A3TH0=;Xn:b[;lI2
+Il622k6fmW=OU>PbC`ZQdg0
+R2
+R3
+R16
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/pt_mem.v
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/pt_mem.v
+R17
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/pt_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/pt_mem.v|
+!i113 1
+R14
+R7
+vs_mem
+R15
+!i10b 1
+!s100 4Dk;RgZTCj]hOzdGD5c<;1
+Ij>S9LE4KAL28fcn2kQ@4m0
+R2
+R3
+R16
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/s_mem.v
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/s_mem.v
+R17
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/s_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/s_mem.v|
+!i113 1
+R14
+R7
+vsseg
+R0
+R1
+!i10b 1
+!s100 H]Yo=8czH7`S`a<]X8Mo52
+I14AZ79m0;@BC14DN[2c?Q1
+R2
+R8
+S1
+R3
+R9
+R10
+R11
+L0 248
+R4
+r1
+!s85 0
+31
+R5
+R12
+R13
+!i113 1
+R6
+R7
+vtb_comp
+R0
+R1
+!i10b 1
+!s100 X4WGDK69>AZgCDa13Z[j:2
+IVc2DH4M[klR7zzDJWCPPo0
+R2
+!s105 tb_comp_sv_unit
+S1
+R3
+w1765404085
+8D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/tb_comp.sv
+FD:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/tb_comp.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/tb_comp.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/OneDrive - UBC/UBC/Year 3/CPEN 311/Lab3_BONUS/lab2-cpen311-bonus-JeromeWong05/src/tb_comp.sv|
+!i113 1
+R6
+R7
