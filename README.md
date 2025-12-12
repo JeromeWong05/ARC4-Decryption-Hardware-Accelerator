@@ -79,18 +79,6 @@ The final design achieves **orders-of-magnitude acceleration** over a naïve sin
 
 ---
 
-## Repository Structure
-
-.
-├── src/            # RTL modules (ARC4, crack, multicore logic)
-├── tb/             # RTL and post-synthesis testbenches
-├── constraints/    # Timing and clock constraints
-└── README.md
-
-> Generated FPGA build artifacts are intentionally excluded from version control.
-
----
-
 ## Technical Highlights
 
 - Demonstrates **fixed-function hardware acceleration**
